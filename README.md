@@ -3,8 +3,10 @@
 ## Overview
 A promise-based Node wrapper around the [Mercury web parser] API.
 ## Installation
-Make sure you obtain an API key from https://mercury.postlight.com/web-parser/
-Install the package with
+Make sure you obtain an API key from https://mercury.postlight.com/web-parser/.
+
+Install the package with:
+
 ```
 npm install node-mercury-parser --save
 ```
