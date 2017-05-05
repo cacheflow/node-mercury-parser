@@ -32,4 +32,4 @@ nodeMercuryParser.get('http://www.cnn.com/2017/02/07/us/harambe-cheeto-trnd/')
   nodeMercuryParser.next_page_url
 ```
 ## For more information about the underlying API visit
-[Mercury web parser]: https://mercury.postlight.com/web-parser/
+[Mercury web parser](https://mercury.postlight.com/web-parser/)
