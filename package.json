@@ -1,5 +1,5 @@
 {
-  "name": "node-mercury-parse",
+  "name": "node-mercury-parser",
   "version": "1.0.1",
   "description": "A promise based wrapper for Postlight's Mercury web parser.",
   "main": "index.js",
