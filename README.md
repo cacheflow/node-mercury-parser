@@ -19,6 +19,10 @@ nodeMercuryParser.get('http://www.cnn.com/2017/02/07/us/harambe-cheeto-trnd/')
   .catch(err => err)
 ```
 ## Available attributes
+
+The API response exposes the following attributes, which allow you to access specific
+data from your HTML page and can be accessed like: 
+
 ```
   nodeMercuryParser.title
   nodeMercuryParser.content
