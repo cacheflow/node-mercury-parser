@@ -15,13 +15,13 @@ npm install node-mercury-parser --save
 const nodeMercuryParser = require('node-mercury-parser')
 nodeMercuryParser.init(API_KEY)
 nodeMercuryParser.get('http://www.cnn.com/2017/02/07/us/harambe-cheeto-trnd/')
-  .then(data => res)
+  .then(res => res)
   .catch(err => err)
 ```
 ## Available attributes
 
 The API response exposes the following attributes, which allow you to access specific
-data from your HTML page and can be accessed like: 
+data from your HTML page and can be accessed like:
 
 ```
   nodeMercuryParser.title
