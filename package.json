@@ -1,6 +1,6 @@
 {
   "name": "node-mercury-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A promise based wrapper for Postlight's Mercury web parser.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,11 @@
   "dependencies": {
     "axios": "^0.16.1"
   },
+  "keywords": [
+   "mercury",
+   "parser",
+   "postlight"
+  ],
   "devDependencies": {
     "assert": "^1.4.1",
     "chai": "^3.5.0",
